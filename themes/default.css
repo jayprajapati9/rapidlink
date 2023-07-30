@@ -1,0 +1,25 @@
+.userinfo-wrap .username {
+  color: #222;
+}
+
+.userinfo-wrap .userbio {
+  color: #222;
+}
+
+.userinfo-wrap .default-userimg {
+  color: #fff;
+  background-color: #0070f3;
+}
+
+.link-block {
+  color: white;
+  background-color: #0070f3;
+}
+
+.header-block {
+  color: #222;
+}
+.spotify-name {
+  color: #ffffff;
+  background-color: #0070f3;
+}

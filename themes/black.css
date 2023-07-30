@@ -1,0 +1,25 @@
+html,
+body {
+  background-color: #000000;
+}
+.userinfo-wrap .username {
+  color: #fff;
+}
+
+.userinfo-wrap .userbio {
+  color: #fff;
+}
+
+.userinfo-wrap .default-userimg {
+  color: #fff;
+  background-color: #0070f3;
+}
+
+.link-block {
+  color: white;
+  background-color: #222;
+}
+
+.header-block {
+  color: #f0f0f0;
+}
